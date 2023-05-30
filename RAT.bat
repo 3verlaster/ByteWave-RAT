@@ -1,1 +1,0 @@
-"C:\Users\pc\Desktop\PYTHON-PROJECT\TELEGRAM_BOT\ByteWave RAT\ByteWave RAT.py"
