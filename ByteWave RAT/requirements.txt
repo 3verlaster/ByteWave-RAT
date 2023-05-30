@@ -1,0 +1,7 @@
+pillow
+pyperclip
+pyautogui
+pycaw
+telebot
+pyaudio
+wave
